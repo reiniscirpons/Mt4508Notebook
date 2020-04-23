@@ -2,103 +2,103 @@
 ---
 ## Goals
 - [ ] Chapter 1
-      - [x] Chapter 1.1
-      - [x] Chapter 1.2
-      - [x] Chapter 1.3
-      - [x] Chapter 1.4
-      - [x] Chapter 1.5
-      - [ ] Chapter 1.6
-      - [ ] Chapter 1.7
-      - [ ] Chapter 1.8
-      - [ ] Exercises
+  - [x] Chapter 1.1
+  - [x] Chapter 1.2
+  - [x] Chapter 1.3
+  - [x] Chapter 1.4
+  - [x] Chapter 1.5
+  - [ ] Chapter 1.6
+  - [ ] Chapter 1.7
+  - [ ] Chapter 1.8
+  - [ ] Exercises
 - [ ] Chapter 2
-      - [x] Chapter 2.1
-      - [x] Chapter 2.2
-      - [x] Chapter 2.3
-      - [x] Chapter 2.4
-      - [ ] Chapter 2.5
-      - [ ] Chapter 2.6
-      - [ ] Chapter 2.7
-      - [ ] Exercises
+  - [x] Chapter 2.1
+  - [x] Chapter 2.2
+  - [x] Chapter 2.3
+  - [x] Chapter 2.4
+  - [ ] Chapter 2.5
+  - [ ] Chapter 2.6
+  - [ ] Chapter 2.7
+  - [ ] Exercises
 - [ ] Chapter 3
-      - [x] Chapter 3.1
-      - [ ] Chapter 3.2
-      - [ ] Chapter 3.3
-      - [ ] Chapter 3.4
-      - [ ] Chapter 3.5
-      - [ ] Exercises
+  - [x] Chapter 3.1
+  - [ ] Chapter 3.2
+  - [ ] Chapter 3.3
+  - [ ] Chapter 3.4
+  - [ ] Chapter 3.5
+  - [ ] Exercises
 - [ ] Chapter 4
-      - [x] Chapter 4.1
-      - [x] Chapter 4.2
-      - [x] Chapter 4.3
-      - [x] Chapter 4.4
-      - [x] Chapter 4.5
-      - [ ] Chapter 4.6
-      - [ ] Chapter 4.7
-      - [ ] Exercises
+  - [x] Chapter 4.1
+  - [x] Chapter 4.2
+  - [x] Chapter 4.3
+  - [x] Chapter 4.4
+  - [x] Chapter 4.5
+  - [ ] Chapter 4.6
+  - [ ] Chapter 4.7
+  - [ ] Exercises
 - [ ] Chapter 5
-      - [ ] Chapter 5.1
-      - [ ] Chapter 5.2
-      - [ ] Chapter 5.3
-      - [ ] Chapter 5.4
-      - [ ] Chapter 5.5
-      - [ ] Chapter 5.6
-      - [ ] Exercises
+  - [ ] Chapter 5.1
+  - [ ] Chapter 5.2
+  - [ ] Chapter 5.3
+  - [ ] Chapter 5.4
+  - [ ] Chapter 5.5
+  - [ ] Chapter 5.6
+  - [ ] Exercises
 - [ ] Chapter 6
-      - [ ] Chapter 6.1
-      - [ ] Chapter 6.2
-      - [ ] Chapter 6.3
-      - [ ] Chapter 6.4
-      - [ ] Chapter 6.5
-      - [ ] Chapter 6.6
-      - [ ] Exercises
+  - [ ] Chapter 6.1
+  - [ ] Chapter 6.2
+  - [ ] Chapter 6.3
+  - [ ] Chapter 6.4
+  - [ ] Chapter 6.5
+  - [ ] Chapter 6.6
+  - [ ] Exercises
 - [ ] Chapter 7
-      - [x] Chapter 7.1
-      - [x] Chapter 7.2
-      - [ ] Chapter 7.3
-      - [ ] Chapter 7.4
-      - [ ] Chapter 7.5
-      - [ ] Chapter 7.6
-      - [ ] Chapter 7.7
-      - [ ] Exercises
+  - [x] Chapter 7.1
+  - [x] Chapter 7.2
+  - [ ] Chapter 7.3
+  - [ ] Chapter 7.4
+  - [ ] Chapter 7.5
+  - [ ] Chapter 7.6
+  - [ ] Chapter 7.7
+  - [ ] Exercises
 - [ ] Chapter 8
-      - [ ] Chapter 8.1
-      - [ ] Chapter 8.2
-      - [ ] Chapter 8.3
-      - [ ] Exercises
+  - [ ] Chapter 8.1
+  - [ ] Chapter 8.2
+  - [ ] Chapter 8.3
+  - [ ] Exercises
 - [ ] Chapter 9
-      - [ ] Chapter 9.1
-      - [ ] Chapter 9.2
-      - [ ] Chapter 9.3
-      - [ ] Chapter 9.4
-      - [ ] Chapter 9.5
-      - [ ] Chapter 9.6
-      - [ ] Exercises
+  - [ ] Chapter 9.1
+  - [ ] Chapter 9.2
+  - [ ] Chapter 9.3
+  - [ ] Chapter 9.4
+  - [ ] Chapter 9.5
+  - [ ] Chapter 9.6
+  - [ ] Exercises
 - [ ] Chapter 10
-      - [ ] Chapter 10.1
-      - [ ] Chapter 10.2
-      - [ ] Chapter 10.3
-      - [ ] Chapter 10.4
-      - [ ] Chapter 10.5
-      - [ ] Exercises
+  - [ ] Chapter 10.1
+  - [ ] Chapter 10.2
+  - [ ] Chapter 10.3
+  - [ ] Chapter 10.4
+  - [ ] Chapter 10.5
+  - [ ] Exercises
 - [ ] Chapter 11
-      - [ ] Chapter 11.1
-      - [ ] Chapter 11.2
-      - [ ] Chapter 11.3
-      - [ ] Chapter 11.4
-      - [ ] Chapter 11.5
-      - [ ] Chapter 11.6
-      - [ ] Chapter 11.7
-      - [ ] Chapter 11.8
-      - [ ] Exercises
+  - [ ] Chapter 11.1
+  - [ ] Chapter 11.2
+  - [ ] Chapter 11.3
+  - [ ] Chapter 11.4
+  - [ ] Chapter 11.5
+  - [ ] Chapter 11.6
+  - [ ] Chapter 11.7
+  - [ ] Chapter 11.8
+  - [ ] Exercises
 - [ ] Chapter 12
-      - [ ] Chapter 12.1
-      - [ ] Chapter 12.2
-      - [ ] Chapter 12.3
-      - [ ] Chapter 12.4
-      - [ ] Exercises
+  - [ ] Chapter 12.1
+  - [ ] Chapter 12.2
+  - [ ] Chapter 12.3
+  - [ ] Chapter 12.4
+  - [ ] Exercises
 - [ ] Chapter 13
-      - [ ] Chapter 13.1
-      - [ ] Chapter 13.2
-      - [ ] Chapter 13.3
-      - [ ] Exercises
+  - [ ] Chapter 13.1
+  - [ ] Chapter 13.2
+  - [ ] Chapter 13.3
+  - [ ] Exercises
